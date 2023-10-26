@@ -25,3 +25,15 @@
 > **git checkout master** – вернуться к актуальному состоянию и продолжить работу
 
 > **git diff** – увидеть разницу между текущим файлом и закоммиченным файлом
+
+## Второй семинар
+
+> git checkout  -b <название ветки> - 
+
+> git merge --abort -
+
+> git log --graph -
+
+> git commit -am “message” –
+
+> git log --oneline –
